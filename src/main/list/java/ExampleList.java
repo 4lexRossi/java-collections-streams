@@ -13,7 +13,7 @@ public class ExampleList {
 		names.add("Elis");
 		names.add("Alex");
 		names.add("Teste");		
-		System.out.println(names);
+		System.out.println("List with ArrayList = "+ names);
 		
 		names.set(2, "TesteDois");
 		System.out.println(names);
@@ -22,8 +22,7 @@ public class ExampleList {
 		
 		names.set(2, "testeTres");		
 		System.out.println(names);
-		
-//		names.add("Estevão");		
+			
 		names.remove("TesteDois");
 		System.out.println(names);
 		names.add("TesteDois");
