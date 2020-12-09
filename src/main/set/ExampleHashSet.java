@@ -16,11 +16,11 @@ public class ExampleHashSet {
 		studentGrades.add(3.8);
 		studentGrades.add(4.0);
 		System.out.println("List of grades = "+ studentGrades);
-		System.out.println("amount of list itens = "+ studentGrades.size());
+		System.out.println("amount of itens in list = "+ studentGrades.size());
 		
 		studentGrades.remove(3.8);
 		System.out.println("List of grades after remove 3.8 = "+ studentGrades);		
-		System.out.println("amount of list itens after remove 3.8 = "+ studentGrades.size());
+		System.out.println("amount of itens in list after remove 3.8 = "+ studentGrades.size());
 		
 		Iterator<Double> iterator = studentGrades.iterator();
 		
@@ -35,7 +35,6 @@ public class ExampleHashSet {
 		System.out.println("List of grades before clear isEmpty? "+ studentGrades.isEmpty());
 		studentGrades.clear();
 		System.out.println("List of grades after clear = "+ studentGrades);
-		System.out.println("List of grades after clear isEmpty? "+ studentGrades.isEmpty());
-		
+		System.out.println("List of grades after clear isEmpty? "+ studentGrades.isEmpty());		
 	}
 }
