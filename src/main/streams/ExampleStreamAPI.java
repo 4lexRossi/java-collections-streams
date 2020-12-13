@@ -52,9 +52,7 @@ public class ExampleStreamAPI {
 //				.collect(Collectors.toList()));
 //				.collect(Collectors.joining(", ")));
 //				.collect(Collectors.toSet()));
-				.collect(Collectors.groupingBy(student -> student.substring(student.indexOf("-") +1 ))));
-				
-		
+				.collect(Collectors.groupingBy(student -> student.substring(student.indexOf("-") +1 ))));		
 	}
 
 }
