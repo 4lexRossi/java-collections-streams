@@ -26,23 +26,23 @@ exemplos de Listas e Vector e suas aplicações com exercicio final.
 
 exemplos de Queue e suas aplicações com exercicio final.
 
-# Collections III - Sets
+## Collections III - Sets
 
 exemplos de Sets - HashSet, LinkHashSet e TreeSet, com exemplos e suas aplicações com exercicio final.
 
-# Collections IV - Map
+## Collections IV - Map
 
 exemplos de Map - HashMap, TreeMap e HashTable, com exemplos e suas aplicações com exercicio final.
 
-# Collections V - Comparators
+## Collections V - Comparators
 
 exemplos de Comparators - com exemplos e suas aplicações.
 
-# Collections VI - Optionals
+## Collections VI - Optionals
 
 exemplos de Optionals - com exemplos e suas aplicações.
 
-# Collections VII - StreamsAPI
+## Collections VII - StreamsAPI
 
 exemplos de streamsAPI - com exemplos e suas aplicações.
 
