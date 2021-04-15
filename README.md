@@ -22,7 +22,7 @@ Esse repo é uma série de aulas em Java da plataforma
 
 exemplos de Listas e Vector e suas aplicações com exercicio final.
 
-# Collections II - Queue
+## Collections II - Queue
 
 exemplos de Queue e suas aplicações com exercicio final.
 
